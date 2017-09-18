@@ -148,7 +148,7 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/indigo-bg.jpg") no-repeat bottom center scroll;
+  background: url("../img/indigo-bg-prog.jpg") no-repeat bottom center scroll;
   background-color: #1B1F28;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -341,11 +341,11 @@ body {
   #research{
     min-height: 80vh;
      padding-top: 70px;
-  padding-bottom: 100px; 
+  padding-bottom: 100px;
   }
   #products{
     min-height: 80vh;
      padding-top: 70px;
-  padding-bottom: 100px; 
+  padding-bottom: 100px;
   }
 }

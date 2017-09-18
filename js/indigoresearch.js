@@ -197,7 +197,7 @@ function init() {
 var canvasDiv = document.getElementById('particle-canvas');
 var options = {
   particleColor: '#ce7fff',
-  background: 'img/indigo-bg.jpg',
+  background: 'img/indigo-bg-prog.jpg',
   interactive: true,
   speed: 'slow',
   density: 'high'
