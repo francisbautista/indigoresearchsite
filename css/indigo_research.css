@@ -29,6 +29,16 @@ h6 {
   letter-spacing: 1px;
   text-transform: uppercase; }
 
+#features {
+  background-color: #fff;
+  //background-color: #411980;
+  color: #555
+}
+.feature-link {
+  color: #7500B0
+}
+
+
 #about {
   background-color: #fff;
   //background-color: #411980;
